@@ -23,6 +23,8 @@ public class employeee {
 		System.out.println("eter employee email");
 		String email = sc.next();
 				System.out.println("email id is "+ email);
+				
+			System.out.println("hi");
 		
 				
 	}
